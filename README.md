@@ -2,4 +2,4 @@
 The three code challenges
 GRADING SYSTEM
 SPEED SYSTEM
-SALARY Each has each on readme file
+SALARY Each has its on readme file
