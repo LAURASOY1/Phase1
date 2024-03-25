@@ -1,17 +1,13 @@
-Net Salary Calculator
+#STUDENT GRADING PROGRAM
 
+-This is a simple JavaScript program that prompts the user to input a student's marks and determines the corresponding grade based on the following criteria:
 
-This program is designed to calculates an individual's net salary based on their basic salary and benefits. It takes into account various deductions including Pay As You Earn (PAYE) tax, National Health Insurance Fund (NHIF) deductions, and National Social Security Fund (NSSF) deductions. The gross salary and net salary are calculated using the provided basic salary and benefits.
+A > 79
+B: 60 to 79
+C: 50 to 59
+D: 40 to 49
+E: Less than 40
 
-To use;
- Input the basic salary and benefits of the individual.
- Run the program.
- The program will calculate the PAYE tax, NHIF deductions, NSSF deductions, gross salary, and net salary.
- View the calculated values.
-
-
-
-How it Works
- The program retrieves the KRA tax rates, NHIF rates, and NSSF rates from the provided links.
- It then uses these rates to calculate the deductions and net salary based on the input basic salary and benefits.
-
+Run the program in a JavaScript environment, such as a web browser console.
+When prompted, enter the student's marks.
+The program will then calculate and display the corresponding grade for the entered marks.
